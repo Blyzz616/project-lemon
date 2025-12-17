@@ -3,8 +3,8 @@
 #define SENSOR_PWR   3    // Optional: use a GPIO to power the sensor, or tie to 3V3
 
 // Calibration values (you must measure these)
-int dryValue = 3200;   // ADC reading when sensor is in dry air
-int wetValue = 1200;   // ADC reading when sensor is in wet soil
+int dryValue = 2465;   // ADC reading when sensor is in dry air
+int wetValue = 970;   // ADC reading when sensor is in water
 
 void setup() {
   Serial.begin(115200);
@@ -12,7 +12,7 @@ void setup() {
   analogSetAttenuation(ADC_11db);     // Full 0-3.3V range
 
   pinMode(SENSOR_PWR, OUTPUT);
-  digitalWrite(SENSOR_PWR, HIGH);     // If using GPIO for sensor power
+  digitalWrite(SENSOR_PWR, HIGH);
 }
 
 void loop() {
@@ -36,5 +36,5 @@ void loop() {
   Serial.print("  |  Moisture %: ");
   Serial.println(moisturePercent);
 
-  delay(1000);  // read every second
+  delay(3600000);  // read every hour
 }
