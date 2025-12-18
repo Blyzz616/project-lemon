@@ -46,7 +46,7 @@ Skills:
 5: Then the Raspberry Pi sends a "command" to a specific Discord URL with the vlaue of the capacitance.
 
 ## Result
-Once an hour, I get a litte messag in Discord:
+Once an hour, I get a litte messag in Discord:  
 <img width="244" height="392" alt="image" src="https://github.com/user-attachments/assets/4d656556-5d7c-4cd6-a3e1-da4112a2bd31" />
 
 ## Future:
