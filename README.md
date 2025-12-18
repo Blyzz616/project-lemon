@@ -17,7 +17,7 @@ Enter `Project Lemon`
 
 Intended solution:
 
-1: Use a moisture sensor to measure the lemon tree's hydration levels.
+1: Use a moisture sensor to measure the lemon tree's hydration levels.  
 2: Output values to Discord 
 
 Why discord?
