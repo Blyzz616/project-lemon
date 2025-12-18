@@ -31,12 +31,12 @@ Harware:
 - Esp32-C6
 
 Software:
-Arduino IDE for coding
+- Arduino IDE for coding
 
 Skills:
-A little soldering know-how  
-A bit of BASH-fu  
-A bit of GPT assistance in making the ESP microcode  
+- A little soldering know-how  
+- A bit of BASH-fu  
+- A bit of GPT assistance to give me the ESP microcode  
 
 ## How it works
 The moisture sensor is connected to the esp32-c6 via GPIO.  
