@@ -39,14 +39,15 @@ Skills:
 - A bit of GPT assistance to give me the ESP microcode  
 
 ## How it works
-The moisture sensor is connected to the esp32-c6 via GPIO.  
-The esp32-c6 checks on the capacitance values of the moisture sensor every minute.  
-The esp32-c6 is also atrtached tho the raspberry pi via USB.  
-The Raspberry Pi runs a timer once an hour to check the capacitance vlaues on the esp32-c6.  
-Then the Raspberry Pi sends a "command" to a specific Discord URL with the vlaue of the capacitance.
+1: The moisture sensor is connected to the esp32-c6 via GPIO.  
+2: The esp32-c6 checks on the capacitance values of the moisture sensor every minute.  
+3: The esp32-c6 is also atrtached tho the raspberry pi via USB.  
+4: The Raspberry Pi runs a timer once an hour to check the capacitance vlaues on the esp32-c6.  
+5: Then the Raspberry Pi sends a "command" to a specific Discord URL with the vlaue of the capacitance.
 
 ## Result
 Once an hour, I get a litte messag in Discord:
 <img width="244" height="392" alt="image" src="https://github.com/user-attachments/assets/4d656556-5d7c-4cd6-a3e1-da4112a2bd31" />
 
-
+## Future:
+_Maybe_ some sort of automated watering system.
