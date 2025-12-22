@@ -2,17 +2,17 @@
 
 I've always wanted a lemon tree.
 
-- Problem1: Canada - Winter is coming (there will be snow).
-- Problem2: I'm not going to be living at my current house forever.
-- Problem3: I'm a black thumb. 
+- **Problem1**: Canada - Winter is coming (there will be snow).
+- **Problem2**: I'm not going to be living at my current house forever.
+- **Problem3**: I'm a black thumb. 
 
-Solutiuon1:
+**Solutiuon1**:
 You get indoor Lemon Trees! What?
 
-Solution2:
+**Solution2**:
 An indoor tree means that it's in a pot. It doesn't need to be planted in the ground. It can move when I do.
 
-Solution3:
+**Solution3**:
 Enter [Project Lemon](https://github.com/Blyzz616/project-lemon)
 
 Intended solution:
