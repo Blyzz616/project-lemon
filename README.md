@@ -1,4 +1,4 @@
-# Project Lemon
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/537b8a45-b52c-426d-a84e-9fde1a3e8536" /># Project Lemon
 
 I've always wanted a lemon tree.
 
@@ -27,8 +27,11 @@ I don't have a small screen to display moisture. I **do** have a discord server.
 
 Harware:
 - Capacative Moisture Sensor
+<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/40a604b4-3429-4984-8663-23060ca1c817" />
 - Raspberry Pi Zero 2 W
+<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/90adbdcb-38d4-4e7a-a604-5d7732843cd6" />
 - Esp32-C6
+<img width="1400" height="1050" alt="image" src="https://github.com/user-attachments/assets/473d299f-2300-42fb-b66d-2410211d5b98" />
 
 Software:
 - Arduino IDE for coding
