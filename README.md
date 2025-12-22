@@ -13,7 +13,7 @@ Solution2:
 An indoor tree means that it's in a pot. It doesn't need to be planted in the ground. It can move when I do.
 
 Solution3:
-Enter `Project Lemon`
+Enter [Project Lemon](https://github.com/Blyzz616/project-lemon)
 
 Intended solution:
 
