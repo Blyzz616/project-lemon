@@ -1,4 +1,4 @@
-<img width="1500" height="1500" alt="image" src="https://github.com/user-attachments/assets/537b8a45-b52c-426d-a84e-9fde1a3e8536" /># Project Lemon
+# Project Lemon
 
 I've always wanted a lemon tree.
 
